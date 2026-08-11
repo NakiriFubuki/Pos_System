@@ -8,6 +8,14 @@ Manage products, members, inventory, sales, thermal receipts, and cash drawer fr
 
 ---
 
+## 🎬 Project Demo Video
+
+📺 Watch the full system demo (login, POS checkout, members, receipts and more):
+
+👉 **[Watch on Google Drive](https://drive.google.com/file/d/1tdF-f5Rj_zWO2uXBnjVrrlm7pf796hvy/view?usp=sharing)**
+
+---
+
 ## ✨ Features
 
 - 🔐 **Admin and Staff Login** — split login portal, role-based access, session and CSRF protection
